@@ -41,7 +41,7 @@ CHATBOT_READ = f"""
 <b>||©️ @{OWNER_USERNAME}||</b>
 """
 
-SOURCE_READ = f"**𝙃𝙚𝙡𝙡𝙤 𝘿𝙚𝙖𝙧\n 𝙎𝙤𝙪𝙧𝙘𝙚 𝘾𝙤𝙙𝙚 𝙊𝙁 [{BOT_NAME}](https://t.me/{BOT_USERNAME}).**\n**𝙋𝙡𝙨 𝙁𝙤𝙧𝙠 𝙏𝙝𝙚 𝙍𝙚𝙥𝙤 & 𝙂𝙞𝙫𝙚 𝙎𝙩𝙖𝙧 ✯**\n**──────────────────**\n** 𝙃𝙚𝙧𝙚 𝙄𝙨 [𝙎𝙤𝙪𝙧𝙘𝙚 𝘾𝙤𝙙𝙚](https://github.com/itsRomeo143/Miss_Lilychatbot)**\n**──────────────────**\n**𝙄𝙛 𝙔𝙤𝙪 𝙁𝙖𝙘𝙚𝙞𝙣𝙜 𝘼𝙣𝙮 𝙋𝙧𝙤𝙗𝙡𝙚𝙢 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 [Romeo](https://t.me/ItsRomeo4u).\n\n\n<b>||𝘽𝙤𝙩 𝙊𝙬𝙣𝙚𝙧 : @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**𝙃𝙚𝙡𝙡𝙤 𝘿𝙚𝙖𝙧\n 𝙎𝙤𝙪𝙧𝙘𝙚 𝘾𝙤𝙙𝙚 𝙊𝙁 [{BOT_NAME}](https://t.me/{BOT_USERNAME}).**\n**𝙋𝙡𝙨 𝙁𝙤𝙧𝙠 𝙏𝙝𝙚 𝙍𝙚𝙥𝙤 & 𝙂𝙞𝙫𝙚 𝙎𝙩𝙖𝙧 ✯**\n**──────────────────**\n** 𝙃𝙚𝙧𝙚 𝙄𝙨 [𝙎𝙤𝙪𝙧𝙘𝙚 𝘾𝙤𝙙𝙚](https://github.com/itsRomeo143/Miss_Lilychatbot)**\n**──────────────────**\n**𝙄𝙛 𝙔𝙤𝙪 𝙁𝙖𝙘𝙚𝙞𝙣𝙜 𝘼𝙣𝙮 𝙋𝙧𝙤𝙗𝙡𝙚𝙢 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 [☞●⃝🥀𝐌𝐑♡𝐑𝐎𝐌𝐄𝐎♡☞](https://t.me/ItsRomeo4u).\n\n\n<b>||𝘽𝙤𝙩 𝙊𝙬𝙣𝙚𝙧 : @{itsromeo4u}||</b>"
 
 ADMIN_READ = f"𝙎𝙤𝙤𝙣"
 

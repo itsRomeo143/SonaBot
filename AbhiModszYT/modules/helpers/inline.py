@@ -6,7 +6,7 @@ from AbhiModszYT import BOT_USERNAME, OWNER
 DEV_OP = [
     [
         InlineKeyboardButton(text="👑 𝗢𝘄𝗻𝗲𝗿", user_id=OWNER),
-        InlineKeyboardButton(text="💫 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="💫 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥", url=f"https://t.me/hindichatHouse"),
     ],
     [
         InlineKeyboardButton(
@@ -115,7 +115,7 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="💫 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="💫 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥", url=f"https://t.me/hindichathouse"),
         InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
     ],
     [
@@ -123,7 +123,7 @@ ABOUT_BTN = [
         InlineKeyboardButton(text="🎁 𝙎𝙤𝙪𝙧𝙘𝙚", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="💎 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="💎 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url=f"https://t.me/romeologo"),
         InlineKeyboardButton(text="◁", callback_data="BACK"),
     ],
 ]
